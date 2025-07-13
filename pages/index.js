@@ -78,7 +78,7 @@ export default function Home() {
               target="_blank"
               rel="noreferrer"
             >
-              Gourav
+              Divyansh 
             </a>
             .
           </p>
@@ -90,7 +90,7 @@ export default function Home() {
               target="_blank"
               rel="noreferrer"
             >
-              contributors
+              Contact 
             </a>
             !
           </p>
